@@ -1,4 +1,4 @@
-# Exploration of COIVD-19 Impacts on CitiBike Ridership in New York City
+# Exploration of COVID-19 Impacts on CitiBike Ridership in New York City
 
 In this [Tableau Public dashboard](https://public.tableau.com/profile/lauren.toothaker#!/vizhome/CitiBikeAnalysis_16207818836480/COVID-19ImpactsonRidership?publish=yes), I explore the impact that COVID-19 had on ridership in New York City's CitiBike program. This report forcuses on data for March 2019, March 2020, and March 2021. 
 
